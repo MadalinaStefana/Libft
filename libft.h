@@ -6,7 +6,7 @@
 /*   By: msinca <marvin@42.fr>                      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2015/10/27 17:04:59 by msinca            #+#    #+#             */
-/*   Updated: 2015/11/23 13:55:35 by msinca           ###   ########.fr       */
+/*   Updated: 2015/11/23 14:58:46 by msinca           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,7 +15,6 @@
 #	include <string.h>
 #	include <stdlib.h>
 #	include <unistd.h>
-#	include <stdio.h>
 
 typedef struct			s_list
 {
